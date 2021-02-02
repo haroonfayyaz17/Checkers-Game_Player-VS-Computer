@@ -1,0 +1,21 @@
+﻿Build started 12-Mar-18 8:16:58 AM.
+     1>Project "E:\haroon UNI\CP Lab\checkers game\checkers game\checkers game.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Visual Studio 2013\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /analyze- /errorReport:prompt /clr:nostdlib game.cpp
+         game.cpp
+     1>game.cpp(20): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>game.cpp(371): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>game.cpp(372): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>game.cpp(373): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>game.cpp(379): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>game.cpp(380): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>game.cpp(381): warning C4553: '==' : operator has no effect; did you intend '='?
+       Link:
+         C:\Program Files (x86)\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\haroon UNI\CP Lab\checkers game\Debug\checkers game.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\haroon UNI\CP Lab\checkers game\Debug\checkers game.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\game.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         checkers game.vcxproj -> E:\haroon UNI\CP Lab\checkers game\Debug\checkers game.exe
+     1>Done Building Project "E:\haroon UNI\CP Lab\checkers game\checkers game\checkers game.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:12.15
